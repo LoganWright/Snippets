@@ -1,10 +1,9 @@
 // Pragma Mark
 // 
 //
-// IDECodeSnippetCompletionPrefix: pm
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: EB81A3C5-AD8B-46BF-85C7-C992EABCF026
+// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetIdentifier: 72234358-6F9F-41FC-823D-63A71EF5C8B7
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 2
-#pragma mark - <#mark#>
+// IDECodeSnippetVersion: 0
+#pragma mark - 
