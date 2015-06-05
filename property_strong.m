@@ -2,7 +2,7 @@
 // 
 //
 // IDECodeSnippetCompletionPrefix: ps
-// IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
+// IDECodeSnippetCompletionScopes: [ClassInterfaceMethods,ClassImplementation]
 // IDECodeSnippetIdentifier: 2A407D86-DF8E-402E-A53F-77993F12640F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
