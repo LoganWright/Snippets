@@ -1,6 +1,7 @@
 // View Subclass Initialization
 // 
 //
+// IDECodeSnippetCompletionPrefix: init
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 480CC7D2-5300-4C6C-B74A-BA447B33283E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
